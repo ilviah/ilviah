@@ -6,10 +6,10 @@
 ---
 
 ### 🧑‍💻 Tentang Saya
-- 🎓 Sedang belajar **[RPL]**
-- 💼 Saat ini belajar di **[SMK 17 AGUSTUS 1945]**
-- 🌱 Sedang memperdalam **[ILMU TEKNOLOGI DAN KODDING]**
-- ⚡ Fun fact: **[SAYA KELAS 11 RPL 2]**
+- 🎓 Sedang belajar **Rekayasa Perangkat Lunak**
+- 💼 Saat ini belajar di **SMK 17 AGUSTUS 1945**
+- 🌱 Sedang memperdalam **ILMU TEKNOLOGI DAN KODDING**
+- ⚡ Fun fact: **SAYA KELAS 11 RPL 2**
 
 ---
 ## 📚 Isi Repository
