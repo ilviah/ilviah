@@ -1,10 +1,8 @@
 <h1 align="center">Hai, saya khoirotin ilviah👋</h1>
 <h3 align="center">Software Developer | Web Developer | Data Enthusiast</h3>
 
-##Tujuan masuk smk
-●untuk
-  
 
+  
 ---
 
 ### 🧑‍💻 Tentang Saya
@@ -19,6 +17,7 @@
 1. data diri saya
 2. tujuan saya
 3. pengalaman belajar saya
+4. sosmed saya
 
 
 ## 🎯 Tujuan repository 
@@ -52,10 +51,10 @@ Repository ini dibuat sebagai tempat untuk:
 ### 🌐 Hubungi Saya
 
 
-  <a href="mailto:emailkamu@email.com">
+  <a href="mailto:khoirotinv@email.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+  <a href="https://www.instagram.com/_ken1ilyz?stkn=MWd2ZmQ2ZXlmaXdwaA==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
